@@ -1,11 +1,11 @@
 # Olympics-Project
 
-**Part 1**
+# **Part 1**
 
 - Installed a local mySQL database.
 - Created a schema.
 
-**Part 2**
+# **Part 2**
 
 [Creating the Olympics Table](https://github.com/jessrobbin/Olympics-Project/blob/main/Creating%20Olympics%20Table.sql) 
 - Created a mock table
