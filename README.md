@@ -10,7 +10,8 @@
 - Inserting data from csv
 
 Imported data in below format:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f0d6a3a5-a515-4e27-85ec-89ea887cb800)
+
 
 
 **Part 3**
