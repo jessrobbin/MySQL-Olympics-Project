@@ -1,6 +1,6 @@
 # Olympics-Project
 
-A SQL Portfolio challenge, set up a database, upload and optimise a dataset, analyse and create a visualisation.
+Challenge began with Installing a local mySQL database and Importing data and setting up a schema.
 
 [Creating the Olympics Table](https://github.com/jessrobbin/Olympics-Project/blob/main/Creating%20Olympics%20Table.sql) - Making the mock table in SQL and inserting data from csv.
 
